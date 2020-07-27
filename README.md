@@ -9,6 +9,16 @@ The initial state of the visualization:-
 
 
 
+Adding obscatles :-
+
+
+
+![Screenshot (822)](https://user-images.githubusercontent.com/58680992/88509194-2d7c8700-cffe-11ea-931f-55dc8f760f20.png)
+
+
+
+
+
 
 A Screenshot of the final output:-
 
