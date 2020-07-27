@@ -17,7 +17,10 @@ Adding obscatles :-
 
 
 
+How visualiation starts:-
 
+
+![Screenshot (827)](https://user-images.githubusercontent.com/58680992/88544496-1dcd6480-d037-11ea-98f9-9cea8d153647.png)
 
 
 A Screenshot of the final output:-
